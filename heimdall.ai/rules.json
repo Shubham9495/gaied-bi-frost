@@ -1,0 +1,108 @@
+{
+    "categories": [
+      {
+        "request_type": "Adjustment",
+        "sub_request_types": [
+          {
+            "name": "Reallocation Fees",
+            "keywords": ["reallocation", "fees"]
+          },
+          {
+            "name": "Amendment Fees",
+            "keywords": ["amendment", "fees"]
+          },
+          {
+            "name": "Reallocation Principal",
+            "keywords": ["reallocation", "principal"]
+          }
+        ]
+      },
+      {
+        "request_type": "AU Transfer",
+        "sub_request_types": []
+      },
+      {
+        "request_type": "Closing Notice",
+        "sub_request_types": [
+          {
+            "name": "Cashless Roll",
+            "keywords": ["cashless", "roll"]
+          }
+        ]
+      },
+      {
+        "request_type": "Commitment Change",
+        "sub_request_types": [
+          {
+            "name": "Decrease",
+            "keywords": ["decrease", "reduce"]
+          },
+          {
+            "name": "Increase",
+            "keywords": ["increase", "raise"]
+          }
+        ]
+      },
+      {
+        "request_type": "Fee Payment",
+        "sub_request_types": [
+          {
+            "name": "Ongoing Fee",
+            "keywords": ["ongoing", "fee"]
+          },
+          {
+            "name": "Letter of Credit Fee",
+            "keywords": ["letter of credit", "fee"]
+          }
+        ]
+      },
+      {
+        "request_type": "Money Movement - Inbound",
+        "sub_request_types": [
+          {
+            "name": "Principal",
+            "keywords": ["principal"]
+          },
+          {
+            "name": "Interest",
+            "keywords": ["interest"]
+          },
+          {
+            "name": "Principal + Interest",
+            "keywords": ["principal", "interest"]
+          },
+          {
+            "name": "Principal + Interest + Fee",
+            "keywords": ["principal", "interest", "fee"]
+          }
+        ]
+      },
+      {
+        "request_type": "Money Movement - Outbound",
+        "sub_request_types": [
+          {
+            "name": "Timebound",
+            "keywords": ["timebound", "scheduled"]
+          },
+          {
+            "name": "Foreign Currency",
+            "keywords": ["foreign", "currency", "exchange"]
+          }
+        ]
+      },
+      {
+        "request_type": "Password management",
+        "sub_request_types": [
+          {
+            "name": "password reset",
+            "keywords": ["passsword", "reset","login","credentials"]
+          },
+          {
+            "name": "Access Management",
+            "keywords": ["access", "account", "signin"]
+          }
+        ]
+      }
+    ]
+  }
+  
